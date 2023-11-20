@@ -41,4 +41,4 @@ SnackbarApi.Instance.ShowSnackbar("Dear user, the action you have performed is i
 });
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-![Themes](https://github.com/Namancoder80/Snackbar-For-Android-/assets/96739382/a1604452-9da1-47e3-a602-eb1b4db51414)
+![Themes]
