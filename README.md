@@ -20,7 +20,7 @@
 1. Attach the `SnackbarApi` script to a GameObject in your Unity scene.
 2. Create different themes using the `SnackbarTheme` scriptable object.
 3. Call the snackbar from your code using:
-
+![Themes](https://github.com/Namancoder80/Snackbar-For-Android-/assets/96739382/a1604452-9da1-47e3-a602-eb1b4db51414)
 ```csharp
 SnackbarApi.Instance.ShowSnackbar("Your message here", "Button Text", () => {
     // Action to perform when the button is clicked
