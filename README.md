@@ -1,5 +1,7 @@
 # SnackbarApi
 
+![Snackbar](https://github.com/Namancoder80/Snackbar-For-Android-/assets/96739382/849d6c30-3b0c-405f-a4fd-5e10a00842ac)
+
 `SnackbarApi` is a Unity script that provides a simple way to display snackbar notifications with customizable themes. Users can easily integrate this script into their Unity projects and create different themes to match their app's design.
 
 ## Features
